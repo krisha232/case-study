@@ -1,0 +1,23 @@
+body{
+    font-family: 'Special elite', cursive;
+    background:blue;
+}
+.header_div{
+    background: white;
+    color: #ce2700;
+}
+.header_div img{
+    width: 70px;
+}
+.text-result{
+    border: black;
+    width: 300px;
+    border-radius: 50;
+    border-width: 5px;
+    box-shadow:5px 5px 5px black;
+    background-color: rgb(250, 223, 227) ;
+
+}
+ol{
+    color: rgb(80, 39, 39);
+}
